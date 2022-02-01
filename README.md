@@ -1,4 +1,4 @@
-## .NET Core CI/CD on the AWS Cloud—Quick Start1
+## .NET Core CI/CD on the AWS Cloud—Quick Start123
 
 For architectural details, step-by-step instructions, and customization options, see the [deployment guide](https://fwd.aws/yewap).
 
